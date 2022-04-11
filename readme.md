@@ -24,7 +24,7 @@ pip install -r requirements.txt
 5. For start run **main.py**
 
 
-#Keyboard control:
+# Keyboard control:
 
 
 **R** - Start / stop mining
